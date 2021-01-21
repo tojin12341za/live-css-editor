@@ -19,7 +19,7 @@
     "codemirror": "=5.34.0",
     "emmetio-codemirror-plugin-webextensions": "^0.3.7",
     "jquery": "^3.4.1",
-    "socket.io": "^2.3.0",
+    "socket.io": "^2.4.0",
     "toastr": "^2.1.4"
   },
   "devDependencies": {
